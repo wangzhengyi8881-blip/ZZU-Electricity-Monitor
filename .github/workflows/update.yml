@@ -3,8 +3,8 @@ name: Update Data
 on:
   # 默认手动触发；需要定时运行时启用 schedule。
   # GitHub Actions 的 schedule 可能延迟 10-60 分钟。
-  # schedule:
-  #   - cron: '0 16,20,0,4,8,12 * * *'
+   schedule:
+     - cron: '0 16,20,0,4,8,12 * * *'
   workflow_dispatch:
 
 concurrency:
