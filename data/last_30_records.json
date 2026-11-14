@@ -1,0 +1,107 @@
+[
+  {
+    "time": "11-11 23:16:11",
+    "light_Balance": 59.02,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-11 23:22:36",
+    "light_Balance": 58.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-12 00:43:18",
+    "light_Balance": 58.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-12 05:22:00",
+    "light_Balance": 58.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-12 08:50:15",
+    "light_Balance": 58.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-12 12:28:53",
+    "light_Balance": 57.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-12 12:47:27",
+    "light_Balance": 57.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-12 16:50:17",
+    "light_Balance": 57.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-12 20:51:52",
+    "light_Balance": 56.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-13 00:50:47",
+    "light_Balance": 54.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-13 04:39:29",
+    "light_Balance": 54.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-13 08:42:47",
+    "light_Balance": 54.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-13 12:47:44",
+    "light_Balance": 54.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-13 16:47:00",
+    "light_Balance": 53.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-13 20:50:05",
+    "light_Balance": 53.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-14 00:43:31",
+    "light_Balance": 52.42,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-14 04:42:56",
+    "light_Balance": 52.42,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-14 08:36:06",
+    "light_Balance": 52.42,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-14 12:41:16",
+    "light_Balance": 51.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-14 16:39:38",
+    "light_Balance": 51.52,
+    "ac_Balance": 45.69
+  },
+  {
+    "time": "11-14 20:32:28",
+    "light_Balance": 50.52,
+    "ac_Balance": 45.69
+  }
+]
